@@ -43,6 +43,8 @@ public class MainActivity extends Activity {
 
 		anim.cancel();
 	}
+	
+	// zwc test
 
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
